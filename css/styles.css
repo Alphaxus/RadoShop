@@ -1,0 +1,90 @@
+.container{
+  max-width: 1000px;
+  width: 90%;
+  margin: auto;
+
+}
+.header{
+  text-align: center;
+  padding: 3% 0;
+  font-family: 'Lato', sans-serif;}
+.logo{
+  text-align: center;
+  font-family: 'Lato', sans-serif;
+  margin: 0;
+  margin-bottom: 20px;
+}
+h1 { 
+  text-align: center;
+   font-family: 'Lato', sans-serif;
+  margin: 0;
+margin-bottom: 20px; }
+.m enu{
+  font-family: 'Oswald', sans-serif;
+  color: black;
+  letter-spacing: 2px;
+  margin: 20px;
+}
+a{
+  font-family: 'Oswald', sans-serif;
+  color: black;
+  letter-spacing: 4px;
+  margin: 20px;
+}
+
+.content{
+  padding: 5% 0;
+  overflow: hidden;
+ float: left;
+}
+.product-image{
+  float: left;
+  width: 50%;
+
+}
+
+
+.product-desc{
+ 
+  margin-right: -30px;
+  box-sizing: border-box;
+  padding: 30px 200px;
+ 
+}
+.h11{
+  font-size: 40px;
+}
+.img1{
+  width: 100%;
+}
+.Deskripsi{
+  font-family: 'Merriweather', serif;
+  line-height: 30px;
+}
+.btn{
+  display: inline-block;
+}
+.a1{
+  background: black;
+  color: white;
+  padding: 20px 40px;
+  display: inline-block;
+  text-decoration: none;
+  font-family: 'Merriweather', serif;
+  border-radius: 3px;
+}
+.price{
+  margin-right: -300px;
+  display: inline-block;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  padding: 20px;
+  border: 1px solid black;
+  display: inline-block;
+}
+.footer{
+  font-size: 12px;
+  text-align: center;
+  letter-spacing: 2px;
+  padding: 500px 0px;
+}
+
